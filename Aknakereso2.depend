@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1572809578 source:c:\#martin\codes\c\aknakereso\aknakereso2\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+	"menu_fv.h"
+	"jatek_fv.h"
+	<windows.h>
+
+1572810253 source:c:\#martin\codes\c\aknakereso\aknakereso2\gen.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1572809900 source:c:\#martin\codes\c\aknakereso\aknakereso2\jatek_fv.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	"gen.h"
+	"menu_fv.h"
+
+1572810412 c:\#martin\codes\c\aknakereso\aknakereso2\gen.h
+
+1572810450 source:c:\#martin\codes\c\aknakereso\aknakereso2\menu_fv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"gen.h"
+
+1572809968 c:\#martin\codes\c\aknakereso\aknakereso2\menu_fv.h
+	"gen.h"
+
+1572810450 c:\#martin\codes\c\aknakereso\aknakereso2\jatek_fv.h
+
+1573076909 source:c:\#martin\codes\c\aknakereso2\gen.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+
+1573081371 source:c:\#martin\codes\c\aknakereso2\jatek_fv.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	"gen.h"
+
+1573077313 c:\#martin\codes\c\aknakereso2\gen.h
+
+1573080822 source:c:\#martin\codes\c\aknakereso2\menu_fv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gen.h"
+
+1573080754 source:c:\#martin\codes\c\aknakereso2\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<ctype.h>
+	"menu_fv.h"
+	"jatek_fv.h"
+	<windows.h>
+
+1573081187 c:\#martin\codes\c\aknakereso2\menu_fv.h
+	"gen.h"
+
+1573080411 c:\#martin\codes\c\aknakereso2\jatek_fv.h
+
